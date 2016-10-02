@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ConnectionPoint
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ConnectionPoint\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ ConnectionPoint\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ playerMove()
+comment2.text=\r\n\ checks\ during\ the\ playing\ of\ the\ game\ if\ the\ player\ has\ decided\ to\ make\ a\ move\ on\ this\ point\ \r\n\ of\ the\ board.\r\n\ @param\ null\r\n\ @return\ void\r\n
+comment3.params=
+comment3.target=void\ printArr()
+comment4.params=x\ y\ color
+comment4.target=boolean\ winnerYesOrNo(int,\ int,\ int)
+comment4.text=\r\n\ Checks\ if\ the\ player\ has\ 5\ pieces\ in\ a\ row\ horizontally,\ vertically,\ or\ diagonally\r\n\ @param\ x\ and\ y\ coordinate,\ and\ color,\ which\ blank\ is\ 0,\ white\ is\ 1,\ and\ black\ is\ 2.\r\n\ @return\ void\r\n
+numComments=5
